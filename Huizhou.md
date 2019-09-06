@@ -18,9 +18,9 @@
    * 自由安排（估计一去就要先去沙滩溜达一圈）
    * 看海龟：海龟自然保护区，主要是有未开发的沙滩，看着很不错，这样子的
 
-   ![haigui](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\haigui.png)
+   ![haigui](https://github.com/leechengpeng/Travel/blob/master/Image/huizhou/haigui.png)
 
-   ![beach](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\beach.png)
+   ![beach](https://github.com/leechengpeng/Travel/blob/master/Image/huizhou/beach.png)
 
 3. **日落**：双月湾桥港，沙滩捡贝壳
 
