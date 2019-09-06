@@ -41,7 +41,7 @@ Detail: http://www.mafengwo.cn/poi/7927474.html
 
 **标签**：海上小桂林、渔家
 
-![dongsheng](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\dongsheng.jpg)
+![dongsheng](https://github.com/leechengpeng/Travel/blob/master/Image/huizhou/dongsheng.jpg)
 
 
 
