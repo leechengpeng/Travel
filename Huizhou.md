@@ -11,14 +11,26 @@
 ### Day1：双月湾
 
 1. **广州->双月湾**：3h左右，差不多下午到双月湾
-2. **下午**：吃饭、入住、自由安排（估计一去就要先去沙滩溜达一圈）
+
+2. **下午**：
+
+   * 吃饭、入住
+   * 自由安排（估计一去就要先去沙滩溜达一圈）
+   * 看海龟：海龟自然保护区，主要是有未开发的沙滩，看着很不错，这样子的
+
+   ![haigui](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\haigui.png)
+
+   ![beach](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\beach.png)
+
 3. **日落**：双月湾桥港，沙滩捡贝壳
+
 4. **晚上**：沙滩烧烤或者漫步沙滩
+
 5. **日出**：不是在沙滩上看着日出，而是要在双月湾看着日出？这个还要查一下
 
 ### Day2：渔村/环海自驾
 
-#### 1. 盐洲岛
+####  盐洲岛
 
 http://www.mafengwo.cn/i/16766260.html
 **渔村、玄武岩、日落日出、潜水、捕鱼、自驾**
@@ -37,13 +49,15 @@ http://www.mafengwo.cn/i/16766260.html
 
 Detail: http://www.mafengwo.cn/poi/7927474.html
 
-#### 2. 大亚湾东升渔村
+#### 大亚湾东升渔村
 
 **标签**：海上小桂林、渔家
 
 ![dongsheng](C:\Users\lichengpeng\Documents\GitHub\Travel\Image\huizhou\dongsheng.jpg)
 
+#### 喜洲岛
 
+附近螃蟹、海参、河豚、各式各样的贝壳都很多
 
 #### 3. 其他备选方案
 
